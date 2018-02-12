@@ -1,0 +1,31 @@
+/* body */
+
+#body {
+    width: 500px;
+}
+
+#body img{
+    position: relative;
+    width: 2000px;
+    height: 1500px;
+    bottom: 88px;
+}
+
+#body div {
+    position: relative;
+    left: 1550px;
+    bottom: 2450px;
+    margin-top: 50px;
+    width: 150px;
+    text-align: center;
+    border-style: dotted;
+
+}
+
+#body aside img{
+    position: relative;
+    left: 1470px;
+    bottom: 1500px;
+    height: 1100px;
+    width: 300px;
+}

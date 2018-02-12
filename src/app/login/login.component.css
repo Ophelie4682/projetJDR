@@ -1,0 +1,16 @@
+/* header */
+
+header img{
+    position: absolute; 
+}
+#banniere{
+    width: 2000px;
+    height : 235px;
+    background-repeat: no-repeat;
+}
+
+#connexion{
+    z-index: 2;
+    margin-left: 1250px;
+    position: absolute;
+}

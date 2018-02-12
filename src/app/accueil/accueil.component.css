@@ -1,0 +1,24 @@
+
+/* header */
+
+header img{
+    position: absolute; 
+}
+#banniere{
+    width: 2000px;
+    height : 235px;
+    background-repeat: no-repeat;
+}
+
+#contenant{
+    position: absolute;
+    width: 90%;
+    margin-left: 50px;
+}
+
+#intro{
+    width: 900px;
+    text-align: justify;
+    position: absolute;
+}
+
